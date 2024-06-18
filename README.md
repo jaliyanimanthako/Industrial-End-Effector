@@ -1,6 +1,3 @@
-Certainly! Here's an updated GitHub repository README that includes information about the enclosure design and VL53L0X ToF sensor:
-
----
 
 # Industrial End Effector for Automated Pick and Place Robots
 
