@@ -61,8 +61,9 @@ The enclosure design ensures:
 - Dedicated mounting places for ToF sensors (VL53L0X) to avoid interference with gripper functionality.
 - Features like air vents for heat dissipation and mounting bosses for PCB, ensuring robustness and ease of access.
 
-
- ![image](https://github.com/jaliyanimanthako/Industrial-End-Effector-for-Automated-Pick-and-Place-Robots/assets/161110418/a179bfe3-aa3e-4430-b7ed-a4d9d93666e1)
+</p center>
+ <img src = https://github.com/jaliyanimanthako/Industrial-End-Effector-for-Automated-Pick-and-Place-Robots/assets/161110418/a179bfe3-aa3e-4430-b7ed-a4d9d93666e1>
+ </p>
 
  ![image](https://github.com/jaliyanimanthako/Industrial-End-Effector-for-Automated-Pick-and-Place-Robots/assets/161110418/8372e076-9fe1-44b0-b545-bae7987a9e8c)
 
